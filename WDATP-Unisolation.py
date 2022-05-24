@@ -15,7 +15,7 @@ import inquirer
 print("Unisolation Tool:")
 print("\n")
 
-#Obtain machines form CSV
+#Obtain machines from CSV
 df = pd.read_csv("Machine_list.csv")
 machine_df = pd.DataFrame(df['Machine'])
 
