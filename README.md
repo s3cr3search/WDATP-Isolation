@@ -1,7 +1,7 @@
 # WDATP-Isolation
 
 Introduction <br/>
-This how to guide aim is to show how to utilize the Windows Defender mass isolation scripts.
+This repo is to be used to isolate machines utilizing Windows Defender ATP API.
 
 Prerequisites
 - Python is installed on your machine
