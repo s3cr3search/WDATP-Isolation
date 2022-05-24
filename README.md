@@ -1,6 +1,6 @@
 # WDATP-Isolation
 
-Introduction
+Introduction <br/>
 This how to guide aim is to show how to utilize the Windows Defender mass isolation scripts.
 
 Prerequisites
